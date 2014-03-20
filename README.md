@@ -1,7 +1,7 @@
 phonegap_rfduino_proto
 =====================
 
-First attemps to compile a Phonegap framework with a RFduino plugin , on a MacOs
+First attemps to compile a Phonegap framework with a RFduino plugin, on a MacOs
 
 I had already a working XCode
 I follow phonegap instructions , and download the com.megster.cordova.rfduino plugin
@@ -30,4 +30,4 @@ then i download the cordova-plugin-rfduino-master.zip file , uncompres and go th
 then i copy all the files except for the config.xml and copy them in the  platforms/ios/www directory
 
 and it is working for me, i compile and launch an app on my iphone5 (iOS6), which read a RFduino sensor : 
-i have a list of detected RFduino device, i choose mine, i have a continuous reading and can send the data to a server
+i have a list of detected RFduino devices, i choose mine, i have a continuous reading and can send the data to a server
