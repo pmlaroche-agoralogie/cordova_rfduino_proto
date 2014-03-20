@@ -1,4 +1,4 @@
 cordova_rfduino_proto
 =====================
 
-cordova/RFduino/send a temperature measurement
+First attemps to compile a Phonegap framework with a RFduino plugin
